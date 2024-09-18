@@ -1,0 +1,21 @@
+{
+  "name": "angular-vinxi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vinxi dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/build": "^18.2.4",
+    "@angular/core": "^18.2.5",
+    "@angular/platform-browser": "^18.2.5",
+    "vinxi": "^0.4.3"
+  },
+  "devDependencies": {
+    "@analogjs/vite-plugin-angular": "^1.8.0",
+    "@angular/compiler-cli": "^18.2.5"
+  }
+}
