@@ -1,3 +1,5 @@
 *.timestamp*
 .git
 node_modules
+.output
+.vinxi
